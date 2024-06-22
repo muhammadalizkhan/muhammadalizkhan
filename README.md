@@ -1,6 +1,7 @@
 <p align="left">Enthusiastic Computer Science & Programming Student & Associate Software Engineer for Mobile Applications & Web Apps Development</p>
 <p>👤 Resume: https://lnkd.in/dt5ENx85</p>
-<p>Main Stack: Mobile Application Development with React Native, Ionic Framework</p><p>Web Development: Angular, React Nextjs</p>
+<iframe src="https://malikhandev-resume.tiiny.site" width="500" height="500" allowfullscreen></iframe>
+<p>Main Stack: Mobile Application Development with React Native, Ionic Framework</p><p>Web Development: Angular, React Nextjs, Remix</p>
 <h1>Stuff I've used</h1>
 <p align="left">
 
