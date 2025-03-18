@@ -24,12 +24,11 @@ Computer Science graduate with 3 years of professional experience in software de
 3 years of hands-on experience developing applications across various domains. Skilled in full-stack development with emphasis on creating responsive, efficient, and user-friendly applications.
 
 ## 🔗 Connect With Me
-<!-- Add your social links here -->
 - [LinkedIn](https://linkedin.com/in/muhammadalizkhan)
 - [Twitter](https://twitter.com/muhammadalizkhan)
 - [Personal Website](https://yourwebsite.com)
 
 ## 📊 GitHub Stats
-[![Muhammad Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadalizkhan&show_icons=true&theme=radical)](https://github.com/muhammadalizkhan)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadalizkhan&theme=dark)](https://github.com/muhammadalizkhan)
 
 💬 Feel free to reach out if you're looking for a developer, have a question, or just want to connect!
