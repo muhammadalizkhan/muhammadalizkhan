@@ -23,12 +23,6 @@ Computer Science graduate with 3 years of professional experience in software de
 ## 💼 Professional Experience
 3 years of hands-on experience developing applications across various domains. Skilled in full-stack development with emphasis on creating responsive, efficient, and user-friendly applications.
 
-## 🔗 Connect With Me
-- [LinkedIn](https://linkedin.com/in/muhammadalizkhan)
-- [Twitter](https://twitter.com/muhammadalizkhan)
-- [Personal Website](https://yourwebsite.com)
-
 ## 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadalizkhan&theme=dark)](https://github.com/muhammadalizkhan)
 
-💬 Feel free to reach out if you're looking for a developer, have a question, or just want to connect!
