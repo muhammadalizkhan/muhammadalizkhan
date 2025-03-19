@@ -1,6 +1,9 @@
 # Software Engineer & Computer Programmer
 
-Computer Science graduate with 3 years of professional experience in software development. I specialize in building scalable mobile and web applications using modern frameworks and technologies.
+>Building scalable digital experiences across platforms with modern technology
+
+`3+ years` crafting elegant solutions that blend performance with exceptional user experience. I specialize in building scalable mobile and web applications using modern frameworks and technologies.
+
 
 ## Technologies
 
@@ -49,13 +52,10 @@ Computer Science graduate with 3 years of professional experience in software de
   - **System Programming:** Objective-C, C++
 </details>
 
-## Professional Experience
+## Professional Journey
 
-<details>
-  <summary>3 years of hands-on experience developing applications across various domains. Skilled in full-stack development with emphasis on creating responsive, efficient, and user-friendly applications.</summary>
-  
-  - Developed and deployed scalable web and mobile applications
-  - Worked with cross-functional teams to design and implement features
-  - Applied best practices for performance optimization and user experience
-  
-</details>
+I transform complex requirements into scalable applications through:
+
+- ✨ **Craftsmanship** — Building responsive applications with performance at the core
+- 🔄 **Collaboration** — Working across disciplines to align technology with business goals
+- 🧠 **Architecture** — Designing modular systems that stand the test of time
